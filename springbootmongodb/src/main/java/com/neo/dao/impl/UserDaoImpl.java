@@ -13,7 +13,7 @@ import com.neo.dao.UserDao;
 import com.neo.entity.UserEntity;
 
 /**
- * Created by summer on 2017/5/5.
+ * Created by aiyan2001 on 2017/11/11.
  */
 @Component
 public class UserDaoImpl implements UserDao {
